@@ -13,7 +13,7 @@ Method 4: Multiply two numbers
 
  */
 
-
+// Edgard Pacheco
 
 
 package ca1groupk;
